@@ -1,0 +1,88 @@
+{
+  "schema": "r1-creation-sha256-manifest/1",
+  "creation": "lilled-r1",
+  "version": "0.3.0",
+  "generatedAt": "2026-09-29T11:36:35.565Z",
+  "files": {
+    "README.md": {
+      "bytes": 3904,
+      "sha256": "8c85fa3f84009d15ddd966e0da34b53fde053351231f2b54c4a463cb101d5488"
+    },
+    "assets/icon.png": {
+      "bytes": 3663,
+      "sha256": "a4c6669c6fee85d64c6f2264fc05c0e655bde03fef6435315c0a729b6f793bfc"
+    },
+    "assets/icon.svg": {
+      "bytes": 322,
+      "sha256": "f358ad91385fef6b7b6143677e6c09bbe44456c00b07d36c72d2e5670c6566f1"
+    },
+    "creation.json": {
+      "bytes": 688,
+      "sha256": "ad3528123f7d22886f2ce41d91b9bb8e98d60d6efe21d17cfc902ef0b7e238ee"
+    },
+    "index.html": {
+      "bytes": 575,
+      "sha256": "adac90ac8cd987a97bc3184143109406c25cef0403fc8fb56b6fc83f242604c1"
+    },
+    "src/audio/audio-engine.js": {
+      "bytes": 7363,
+      "sha256": "ab06239dd877c1b467a4d3f4f2e4f593c1274bc5f2365578f409afbd8897bc6f"
+    },
+    "src/core/reference-catalog.js": {
+      "bytes": 5635,
+      "sha256": "04df8a0d0dac8e04fbe1fac9ca5cd2c0269343e31932e3a9f0b9f361cdb78d59"
+    },
+    "src/core/state.js": {
+      "bytes": 12258,
+      "sha256": "631e957685f8501de144955bf429a69f0c843ede2bf1b9062792e8c240f35e5c"
+    },
+    "src/main.js": {
+      "bytes": 64096,
+      "sha256": "917744b25f7c0027e6d980f70de67681f847e5aae49ed701d3bffa6362bd5b5e"
+    },
+    "src/platform/emulator-bridge.js": {
+      "bytes": 1165,
+      "sha256": "431ec602d471ed7d06bf4b6887cd298a3dbaca72ad5f43c54b23b6766cb4656e"
+    },
+    "src/platform/r1-platform.js": {
+      "bytes": 5267,
+      "sha256": "67a1ec24089da8704f74a72921d4c99c1787d87c61a878457a3f37ee2960faa3"
+    },
+    "src/services/input-focus.js": {
+      "bytes": 428,
+      "sha256": "e66e54ba1af3a2deb1a4fb4f7198783c52756b42cbc91f3160050ffbbd833dcd"
+    },
+    "src/services/interaction-router.js": {
+      "bytes": 877,
+      "sha256": "a339bcbec35d0bd8ae6155146c166287d2d3e81889a5279b44fd0864a7a2cfe6"
+    },
+    "src/services/navigation-guard.js": {
+      "bytes": 411,
+      "sha256": "8b89a9bfc90c6d6d358e9f76720a1a6041c57aa161030dfd4e3b041cc03db424"
+    },
+    "src/services/pattern-service.js": {
+      "bytes": 1377,
+      "sha256": "381ac242c37629d81f45b8edd017ccb2aa68fc5f4c9f017f1014b6115e007a63"
+    },
+    "src/services/sensor-hub.js": {
+      "bytes": 4251,
+      "sha256": "8af4ce2908948a8e8d821c809df8198e53a26709746b83259e8dcddeceb63f7c"
+    },
+    "src/services/storage/media-repository.js": {
+      "bytes": 2267,
+      "sha256": "d0fa5d347d481ce11f5609992d195feafdc216fa084617b5a9505ca22a877093"
+    },
+    "src/services/transport-manager.js": {
+      "bytes": 1420,
+      "sha256": "956fa34b72bb8fbe38d11f8472381d0014739fb91ed53d23886a0af33f74d834"
+    },
+    "src/styles.css": {
+      "bytes": 23078,
+      "sha256": "93e3bccc090ff79737e5d507164a3139c291eb83f3354381c0a582766acb5f3e"
+    },
+    "src/ui/render.js": {
+      "bytes": 36127,
+      "sha256": "7e38090e39741ac3c4d89f3339b4285b78881e0270b65b824d70056699377b51"
+    }
+  }
+}
