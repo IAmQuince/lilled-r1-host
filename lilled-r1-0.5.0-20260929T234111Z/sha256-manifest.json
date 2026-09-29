@@ -1,0 +1,112 @@
+{
+  "schema": "r1-creation-sha256-manifest/1",
+  "creation": "lilled-r1",
+  "version": "0.5.0",
+  "generatedAt": "2026-09-29T23:41:11.357Z",
+  "files": {
+    "README.md": {
+      "bytes": 3904,
+      "sha256": "8c85fa3f84009d15ddd966e0da34b53fde053351231f2b54c4a463cb101d5488"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 1686,
+      "sha256": "19ddf7c86cdab98156bcb54f03268827ad01666eea2000be3f207b2ff946585a"
+    },
+    "assets/icon.png": {
+      "bytes": 3663,
+      "sha256": "a4c6669c6fee85d64c6f2264fc05c0e655bde03fef6435315c0a729b6f793bfc"
+    },
+    "assets/icon.svg": {
+      "bytes": 322,
+      "sha256": "f358ad91385fef6b7b6143677e6c09bbe44456c00b07d36c72d2e5670c6566f1"
+    },
+    "creation.json": {
+      "bytes": 688,
+      "sha256": "2b221a3dbd7cadd10acfac04728dafa2b8b750f0f968aef949a708ba80065326"
+    },
+    "index.html": {
+      "bytes": 679,
+      "sha256": "c0eb57ed133ca4d444fdb280bb63d09b56601866c8e09144b7e18192af0617e4"
+    },
+    "src/apps/udaq/model.js": {
+      "bytes": 740,
+      "sha256": "552b353bd90d20fd2ef3cd7defd451762b450303c7cb5becfcd9056dbb683cc5"
+    },
+    "src/apps/udaq/view.js": {
+      "bytes": 2279,
+      "sha256": "09b0529fb917f8c943a7b016b8d69ec27fa0e26f4bbdaa3dc282eed3600f341f"
+    },
+    "src/audio/audio-engine.js": {
+      "bytes": 7363,
+      "sha256": "ab06239dd877c1b467a4d3f4f2e4f593c1274bc5f2365578f409afbd8897bc6f"
+    },
+    "src/core/reference-catalog.js": {
+      "bytes": 5635,
+      "sha256": "04df8a0d0dac8e04fbe1fac9ca5cd2c0269343e31932e3a9f0b9f361cdb78d59"
+    },
+    "src/core/state.js": {
+      "bytes": 13489,
+      "sha256": "8d10ee317a611c6e9b2cc7fff6a1d315fc723cd09523aabed17b8e3c69569b57"
+    },
+    "src/gfx/glcd-font.js": {
+      "bytes": 7990,
+      "sha256": "b580d2aa28a73d946ce168e6ece311a15279ae68248b2613f69c6f7e1df869d9"
+    },
+    "src/gfx/surface.js": {
+      "bytes": 2283,
+      "sha256": "ef31d3ade3ccce773f8ae9da03f9790778e048d2def8c59c018b54f1a3929991"
+    },
+    "src/main.js": {
+      "bytes": 73171,
+      "sha256": "d0a20073c622cc9f4747188cdac5c4fd1fbefdf267ab11889e0792079b1a5361"
+    },
+    "src/platform/emulator-bridge.js": {
+      "bytes": 1165,
+      "sha256": "431ec602d471ed7d06bf4b6887cd298a3dbaca72ad5f43c54b23b6766cb4656e"
+    },
+    "src/platform/r1-platform.js": {
+      "bytes": 7325,
+      "sha256": "c4e5b3c7f8691987832ddec2a89f3cc1eca73cd825547519cfd704863f71343e"
+    },
+    "src/services/input-focus.js": {
+      "bytes": 428,
+      "sha256": "e66e54ba1af3a2deb1a4fb4f7198783c52756b42cbc91f3160050ffbbd833dcd"
+    },
+    "src/services/interaction-router.js": {
+      "bytes": 877,
+      "sha256": "a339bcbec35d0bd8ae6155146c166287d2d3e81889a5279b44fd0864a7a2cfe6"
+    },
+    "src/services/navigation-guard.js": {
+      "bytes": 411,
+      "sha256": "8b89a9bfc90c6d6d358e9f76720a1a6041c57aa161030dfd4e3b041cc03db424"
+    },
+    "src/services/pattern-service.js": {
+      "bytes": 4266,
+      "sha256": "2c1d85550160864fb127aa3776ef09537f0eb9c7538b22f541edf60d7958cdcd"
+    },
+    "src/services/sensor-hub.js": {
+      "bytes": 7688,
+      "sha256": "9771ffee93725799d4df3fc46d67be3fc32418e5af249972d1aadacfc832d28c"
+    },
+    "src/services/storage/media-repository.js": {
+      "bytes": 2607,
+      "sha256": "8b7d28643124fdc9ff9a8bacc6aa38fbd8bfcc35fe222fded4949601910818cb"
+    },
+    "src/services/transport-manager.js": {
+      "bytes": 1420,
+      "sha256": "956fa34b72bb8fbe38d11f8472381d0014739fb91ed53d23886a0af33f74d834"
+    },
+    "src/styles.css": {
+      "bytes": 23684,
+      "sha256": "c909fd313e8d48347b1dd4824a2c8a27dd77e4c5077734b14e405317e859846b"
+    },
+    "src/ui/native-shell.js": {
+      "bytes": 8949,
+      "sha256": "af45544c0f9ab6d89f7bfc6c4b716fff0b15eae20240a1e5136d709ab16e995e"
+    },
+    "src/ui/render.js": {
+      "bytes": 41030,
+      "sha256": "16ba6073424624d56801433e53e0b148a25c8a2f343d0c624be3ff398fca6fee"
+    }
+  }
+}
