@@ -185,6 +185,7 @@ export function serializePersistentState(state) {
   copy.percussion.stopAtBoundary = false;
   copy.recorder = { ...copy.recorder, state: 'idle', seconds: 0, position: 0, hasClip: Boolean(copy.recorder.savedId), review: Boolean(copy.recorder.savedId), dirty: false, error: '' };
   copy.udaq.history = [];
+  copy.udaq.lastSampleMs = 0; // performance.now() clock: restarts at 0 on every page load, so never persist it
   copy.udaq.source = 'SIM';
   copy.udaq.sourceAvailable = false;
   copy.udaq.sourceFresh = false;

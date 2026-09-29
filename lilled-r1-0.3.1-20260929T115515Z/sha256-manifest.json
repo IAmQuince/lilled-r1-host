@@ -1,8 +1,8 @@
 {
   "schema": "r1-creation-sha256-manifest/1",
   "creation": "lilled-r1",
-  "version": "0.3.0",
-  "generatedAt": "2026-09-29T11:36:35.565Z",
+  "version": "0.3.1",
+  "generatedAt": "2026-09-29T11:55:15.062Z",
   "files": {
     "README.md": {
       "bytes": 3904,
@@ -18,7 +18,7 @@
     },
     "creation.json": {
       "bytes": 688,
-      "sha256": "ad3528123f7d22886f2ce41d91b9bb8e98d60d6efe21d17cfc902ef0b7e238ee"
+      "sha256": "44537104b35fd729d7c6964d651465262bce489f2de42d56447431fd624018df"
     },
     "index.html": {
       "bytes": 575,
@@ -33,12 +33,12 @@
       "sha256": "04df8a0d0dac8e04fbe1fac9ca5cd2c0269343e31932e3a9f0b9f361cdb78d59"
     },
     "src/core/state.js": {
-      "bytes": 12258,
-      "sha256": "631e957685f8501de144955bf429a69f0c843ede2bf1b9062792e8c240f35e5c"
+      "bytes": 12370,
+      "sha256": "3cf71e101fb5d83b04c760f099b0ea80d464c326c7cb81a1671850e9d31d4ca5"
     },
     "src/main.js": {
-      "bytes": 64096,
-      "sha256": "917744b25f7c0027e6d980f70de67681f847e5aae49ed701d3bffa6362bd5b5e"
+      "bytes": 64117,
+      "sha256": "5c8141a27c0a8494c16d8e5d9bbb5f2d991b63ca608ac108a97e1c4fe34d4baf"
     },
     "src/platform/emulator-bridge.js": {
       "bytes": 1165,

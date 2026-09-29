@@ -3,7 +3,7 @@
   "id": "lilled-r1",
   "title": "lilLED R1 Interaction Lab",
   "description": "Stock-RabbitOS R1 Creation preserving the supplied lilLED core and LAB app interactions with explicit REAL/ADAPTED/SIMULATED capability mapping.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "startDocument": "index.html",
   "iconUrl": "assets/icon.png",
   "themeColor": "#43D7E5",
