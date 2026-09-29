@@ -3,6 +3,30 @@
   "baseUrl": "https://iamquince.github.io/lilled-r1-host/",
   "builds": [
     {
+      "buildId": "lilled-r1-0.4.1-20260929T232309Z",
+      "creation": "lilled-r1",
+      "title": "lilLED R1 Interaction Lab",
+      "version": "0.4.1",
+      "builtAt": "2026-09-29T23:23:09.144Z",
+      "stagedAt": "2026-09-29T23:23:50.481Z",
+      "fileCount": 28,
+      "manifestSha256": "f7a8267659b3971f34442c094a3bf50ed8c35cbe9164c7b4e5bc08c554728381",
+      "url": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.4.1-20260929T232309Z/",
+      "payload": {
+        "title": "lilLED R1 Interaction Lab",
+        "url": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.4.1-20260929T232309Z/",
+        "description": "Stock-RabbitOS R1 Creation preserving the supplied lilLED core and LAB app interactions with explicit REAL/ADAPTED/SIMULATED capability mapping.",
+        "iconUrl": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.4.1-20260929T232309Z/assets/icon.png",
+        "themeColor": "#43D7E5"
+      },
+      "qr": {
+        "version": 13,
+        "size": 69,
+        "ecc": "L",
+        "bytes": 410
+      }
+    },
+    {
       "buildId": "r1-probe-0.1.0-20260929T224315Z",
       "creation": "r1-probe",
       "title": "R1 Hardware Probe",

@@ -1,0 +1,19 @@
+{
+  "schema": "r1-creation/1",
+  "id": "lilled-r1",
+  "title": "lilLED R1 Interaction Lab",
+  "description": "Stock-RabbitOS R1 Creation preserving the supplied lilLED core and LAB app interactions with explicit REAL/ADAPTED/SIMULATED capability mapping.",
+  "version": "0.4.1",
+  "startDocument": "index.html",
+  "iconUrl": "assets/icon.png",
+  "themeColor": "#43D7E5",
+  "screen": {
+    "width": 240,
+    "height": 282,
+    "orientation": "portrait"
+  },
+  "runtime": "RabbitOS Creation WebView",
+  "sourceReference": "LED-20260927.zip",
+  "hardwarePolicy": "progressive-enhancement",
+  "referencePolicy": "interaction-contract + core-vs-labs + REAL/ADAPTED/SIMULATED hardware truth"
+}
