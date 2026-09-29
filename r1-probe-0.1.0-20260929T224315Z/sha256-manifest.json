@@ -1,0 +1,32 @@
+{
+  "schema": "r1-creation-sha256-manifest/1",
+  "creation": "r1-probe",
+  "version": "0.1.0",
+  "generatedAt": "2026-09-29T22:43:15.750Z",
+  "files": {
+    "assets/icon.png": {
+      "bytes": 3663,
+      "sha256": "a4c6669c6fee85d64c6f2264fc05c0e655bde03fef6435315c0a729b6f793bfc"
+    },
+    "creation.json": {
+      "bytes": 429,
+      "sha256": "c94f51ed31cf30dbc0997f47ec2588d69581a66f39870290f75633d28fd53d1b"
+    },
+    "index.html": {
+      "bytes": 620,
+      "sha256": "d14020b7ca9831304c2717cf313c0dde106039c66dcdc0fa03621a0f55869958"
+    },
+    "src/main.js": {
+      "bytes": 10546,
+      "sha256": "b8319242964e421219a413af3df01b1976e643d9eadf43055712212192cc504b"
+    },
+    "src/qr-encoder.js": {
+      "bytes": 16416,
+      "sha256": "d09e1cad64d93dcf01479419999cbd3f397c06a674ac1146ace084ead334dd1e"
+    },
+    "src/styles.css": {
+      "bytes": 975,
+      "sha256": "bca8ac78ccffb64625a7fb70be2a10891472c7c2e8885f35868ad74a67ca7278"
+    }
+  }
+}

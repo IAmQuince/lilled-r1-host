@@ -1,0 +1,12 @@
+{
+  "schema": "r1-creation-build-record/1",
+  "creation": "r1-probe",
+  "title": "R1 Hardware Probe",
+  "version": "0.1.0",
+  "generatedAt": "2026-09-29T22:43:15.753Z",
+  "node": "v24.18.0",
+  "fileCount": 6,
+  "source": "creations/r1-probe",
+  "output": "dist/r1-probe",
+  "buildId": "r1-probe-0.1.0-20260929T224315Z"
+}

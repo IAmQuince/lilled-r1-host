@@ -1,0 +1,12 @@
+{
+  "schema": "r1-creation/1",
+  "id": "r1-probe",
+  "title": "R1 Hardware Probe",
+  "description": "Measures Creation display, sensor payloads, physical inputs and WebView capabilities on this R1.",
+  "version": "0.1.0",
+  "startDocument": "index.html",
+  "iconUrl": "assets/icon.png",
+  "themeColor": "#43D7E5",
+  "screen": { "width": 240, "height": 282, "orientation": "portrait" },
+  "runtime": "RabbitOS Creation WebView"
+}

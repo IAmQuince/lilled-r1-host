@@ -3,6 +3,30 @@
   "baseUrl": "https://iamquince.github.io/lilled-r1-host/",
   "builds": [
     {
+      "buildId": "r1-probe-0.1.0-20260929T224315Z",
+      "creation": "r1-probe",
+      "title": "R1 Hardware Probe",
+      "version": "0.1.0",
+      "builtAt": "2026-09-29T22:43:15.753Z",
+      "stagedAt": "2026-09-29T22:43:15.873Z",
+      "fileCount": 8,
+      "manifestSha256": "6fe9b576e40db1bb4870efb772241cf4b9101faf4cc98a297e3704997a1669fc",
+      "url": "https://iamquince.github.io/lilled-r1-host/r1-probe-0.1.0-20260929T224315Z/",
+      "payload": {
+        "title": "R1 Hardware Probe",
+        "url": "https://iamquince.github.io/lilled-r1-host/r1-probe-0.1.0-20260929T224315Z/",
+        "description": "Measures Creation display, sensor payloads, physical inputs and WebView capabilities on this R1.",
+        "iconUrl": "https://iamquince.github.io/lilled-r1-host/r1-probe-0.1.0-20260929T224315Z/assets/icon.png",
+        "themeColor": "#43D7E5"
+      },
+      "qr": {
+        "version": 12,
+        "size": 65,
+        "ecc": "L",
+        "bytes": 352
+      }
+    },
+    {
       "buildId": "lilled-r1-0.3.1-20260929T115515Z",
       "creation": "lilled-r1",
       "title": "lilLED R1 Interaction Lab",
