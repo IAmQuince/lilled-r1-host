@@ -1,0 +1,164 @@
+{
+  "schema": "r1-creation-sha256-manifest/1",
+  "creation": "lilled-r1",
+  "version": "0.9.0",
+  "generatedAt": "2026-09-30T01:00:54.290Z",
+  "files": {
+    "README.md": {
+      "bytes": 3904,
+      "sha256": "8c85fa3f84009d15ddd966e0da34b53fde053351231f2b54c4a463cb101d5488"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 1686,
+      "sha256": "19ddf7c86cdab98156bcb54f03268827ad01666eea2000be3f207b2ff946585a"
+    },
+    "assets/icon.png": {
+      "bytes": 3663,
+      "sha256": "a4c6669c6fee85d64c6f2264fc05c0e655bde03fef6435315c0a729b6f793bfc"
+    },
+    "assets/icon.svg": {
+      "bytes": 322,
+      "sha256": "f358ad91385fef6b7b6143677e6c09bbe44456c00b07d36c72d2e5670c6566f1"
+    },
+    "creation.json": {
+      "bytes": 688,
+      "sha256": "704ad1564e1c69cabb0da4ed080764e341a44540493beacd545b1beb43c7cfee"
+    },
+    "index.html": {
+      "bytes": 857,
+      "sha256": "7aaa3bdf66e6afed5be800dc814facbb022d6d56378054dd9822cfdf904950af"
+    },
+    "src/apps/aem/model.js": {
+      "bytes": 4213,
+      "sha256": "55585e3c17664248af4469b5acce5978adadd1ca18c01f007282cd19f2814718"
+    },
+    "src/apps/files/model.js": {
+      "bytes": 2415,
+      "sha256": "37575177db941ba8ecb3e46c8afe0313e4f85bcfbcbfd2fa9ae9f8f6e4aced55"
+    },
+    "src/apps/hsv/model.js": {
+      "bytes": 5493,
+      "sha256": "41d8f1ce4903d3335e8067cb8a4029ec8830327b779f10dd406e8f2bea411a09"
+    },
+    "src/apps/messages/model.js": {
+      "bytes": 3014,
+      "sha256": "eb7187db37d89ada16f46b6f3fd10f9f253bb968e0522ac4b5beb3f17881fe5d"
+    },
+    "src/apps/notebook/model.js": {
+      "bytes": 1153,
+      "sha256": "26ff922f71ad785a9fc8a10c6798d3796c1566bc29f82f3af5deddc04fb201aa"
+    },
+    "src/apps/percussion/model.js": {
+      "bytes": 3147,
+      "sha256": "7fb13d669b31f898483fac6fab7a90aa619a583bdbefdc668568f0e817d19456"
+    },
+    "src/apps/rain/model.js": {
+      "bytes": 8209,
+      "sha256": "85c4e56445c95284f058c37a03e16383d15b4c0f8ad8dae8dc4df0d3c063556c"
+    },
+    "src/apps/recorder/model.js": {
+      "bytes": 450,
+      "sha256": "4aa8cd02422254d343059bc2a5105f19e64e86f99bd2ffabb4f7dcc7143c120e"
+    },
+    "src/apps/synth/model.js": {
+      "bytes": 5140,
+      "sha256": "6deb0b38907a879647ab6dcdc1a2dedbea9e5d575bfd8768a2496de70eb60531"
+    },
+    "src/apps/udaq/model.js": {
+      "bytes": 740,
+      "sha256": "552b353bd90d20fd2ef3cd7defd451762b450303c7cb5becfcd9056dbb683cc5"
+    },
+    "src/apps/udaq/view.js": {
+      "bytes": 2279,
+      "sha256": "09b0529fb917f8c943a7b016b8d69ec27fa0e26f4bbdaa3dc282eed3600f341f"
+    },
+    "src/apps/whofi/model.js": {
+      "bytes": 745,
+      "sha256": "e0964fcd6c69582252c8556c0765b9dc3343f6dc8ee87749bcc824588602a85b"
+    },
+    "src/audio/audio-engine.js": {
+      "bytes": 10960,
+      "sha256": "715d585d07552fab10fbaeb8116fcd6bd2739f7d2a65a5353bc4bab6827c7198"
+    },
+    "src/audio/pcm-worklet.js": {
+      "bytes": 579,
+      "sha256": "1b1eb36f918fd71af1972d829965f06808522829d0b418793e92cbb48fd73d97"
+    },
+    "src/audio/wav.js": {
+      "bytes": 2456,
+      "sha256": "b1b6ae37a07c3d0a597686f18c53e2a2e4ea03519d50e65bca10edfa015cc816"
+    },
+    "src/core/reference-catalog.js": {
+      "bytes": 5635,
+      "sha256": "04df8a0d0dac8e04fbe1fac9ca5cd2c0269343e31932e3a9f0b9f361cdb78d59"
+    },
+    "src/core/state.js": {
+      "bytes": 15914,
+      "sha256": "072ae2492325c08b9fc92d1dce525c7abea020bcb2ee15752ac7cc421c42eb2f"
+    },
+    "src/gfx/glcd-font.js": {
+      "bytes": 7990,
+      "sha256": "b580d2aa28a73d946ce168e6ece311a15279ae68248b2613f69c6f7e1df869d9"
+    },
+    "src/gfx/surface.js": {
+      "bytes": 2455,
+      "sha256": "c20b0ce956321e5e556e544e22e0b9f81b69dd7603b0b95265547d747a753e69"
+    },
+    "src/main.js": {
+      "bytes": 94305,
+      "sha256": "e7f385c32c3f0e47c372920e9cfac21373148dd82130b3fc55e2697a2f8bfc24"
+    },
+    "src/platform/emulator-bridge.js": {
+      "bytes": 1165,
+      "sha256": "431ec602d471ed7d06bf4b6887cd298a3dbaca72ad5f43c54b23b6766cb4656e"
+    },
+    "src/platform/r1-platform.js": {
+      "bytes": 7325,
+      "sha256": "c4e5b3c7f8691987832ddec2a89f3cc1eca73cd825547519cfd704863f71343e"
+    },
+    "src/services/input-focus.js": {
+      "bytes": 428,
+      "sha256": "e66e54ba1af3a2deb1a4fb4f7198783c52756b42cbc91f3160050ffbbd833dcd"
+    },
+    "src/services/interaction-router.js": {
+      "bytes": 877,
+      "sha256": "a339bcbec35d0bd8ae6155146c166287d2d3e81889a5279b44fd0864a7a2cfe6"
+    },
+    "src/services/navigation-guard.js": {
+      "bytes": 411,
+      "sha256": "8b89a9bfc90c6d6d358e9f76720a1a6041c57aa161030dfd4e3b041cc03db424"
+    },
+    "src/services/pattern-service.js": {
+      "bytes": 4266,
+      "sha256": "2c1d85550160864fb127aa3776ef09537f0eb9c7538b22f541edf60d7958cdcd"
+    },
+    "src/services/qr.js": {
+      "bytes": 16416,
+      "sha256": "d09e1cad64d93dcf01479419999cbd3f397c06a674ac1146ace084ead334dd1e"
+    },
+    "src/services/sensor-hub.js": {
+      "bytes": 7688,
+      "sha256": "9771ffee93725799d4df3fc46d67be3fc32418e5af249972d1aadacfc832d28c"
+    },
+    "src/services/storage/media-repository.js": {
+      "bytes": 2607,
+      "sha256": "8b7d28643124fdc9ff9a8bacc6aa38fbd8bfcc35fe222fded4949601910818cb"
+    },
+    "src/services/transport-manager.js": {
+      "bytes": 1420,
+      "sha256": "956fa34b72bb8fbe38d11f8472381d0014739fb91ed53d23886a0af33f74d834"
+    },
+    "src/styles.css": {
+      "bytes": 23812,
+      "sha256": "829fcbf42aff88bc6d866b11400506b696ac326c562e0ff1f4a11453cf26a32a"
+    },
+    "src/ui/native-shell.js": {
+      "bytes": 60438,
+      "sha256": "1c81491d82625ada06e3f441776a01fd5866f9bd0e4629347bcf0663886aeee2"
+    },
+    "src/ui/render.js": {
+      "bytes": 41418,
+      "sha256": "6171b4a24a97f5006d37fb6be3ed7e32f0636ef0c2d6238faafbe28f19ac7a34"
+    }
+  }
+}

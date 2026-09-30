@@ -3,6 +3,30 @@
   "baseUrl": "https://iamquince.github.io/lilled-r1-host/",
   "builds": [
     {
+      "buildId": "lilled-r1-0.9.0-20260930T010054Z",
+      "creation": "lilled-r1",
+      "title": "lilLED R1 Interaction Lab",
+      "version": "0.9.0",
+      "builtAt": "2026-09-30T01:00:54.292Z",
+      "stagedAt": "2026-09-30T01:01:21.339Z",
+      "fileCount": 41,
+      "manifestSha256": "5975526ef3fef6155f2c03636a4b4653a3c13e3aea363b13b8816a70027a3281",
+      "url": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.9.0-20260930T010054Z/",
+      "payload": {
+        "title": "lilLED R1 Interaction Lab",
+        "url": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.9.0-20260930T010054Z/",
+        "description": "Stock-RabbitOS R1 Creation preserving the supplied lilLED core and LAB app interactions with explicit REAL/ADAPTED/SIMULATED capability mapping.",
+        "iconUrl": "https://iamquince.github.io/lilled-r1-host/lilled-r1-0.9.0-20260930T010054Z/assets/icon.png",
+        "themeColor": "#43D7E5"
+      },
+      "qr": {
+        "version": 13,
+        "size": 69,
+        "ecc": "L",
+        "bytes": 410
+      }
+    },
+    {
       "buildId": "lilled-r1-0.8.0-20260930T004728Z",
       "creation": "lilled-r1",
       "title": "lilLED R1 Interaction Lab",
