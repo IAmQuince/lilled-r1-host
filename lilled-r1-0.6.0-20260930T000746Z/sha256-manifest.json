@@ -1,0 +1,124 @@
+{
+  "schema": "r1-creation-sha256-manifest/1",
+  "creation": "lilled-r1",
+  "version": "0.6.0",
+  "generatedAt": "2026-09-30T00:07:46.146Z",
+  "files": {
+    "README.md": {
+      "bytes": 3904,
+      "sha256": "8c85fa3f84009d15ddd966e0da34b53fde053351231f2b54c4a463cb101d5488"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 1686,
+      "sha256": "19ddf7c86cdab98156bcb54f03268827ad01666eea2000be3f207b2ff946585a"
+    },
+    "assets/icon.png": {
+      "bytes": 3663,
+      "sha256": "a4c6669c6fee85d64c6f2264fc05c0e655bde03fef6435315c0a729b6f793bfc"
+    },
+    "assets/icon.svg": {
+      "bytes": 322,
+      "sha256": "f358ad91385fef6b7b6143677e6c09bbe44456c00b07d36c72d2e5670c6566f1"
+    },
+    "creation.json": {
+      "bytes": 688,
+      "sha256": "e1815c5afc0ee2d5e3dab1a4c25f725676d66954dc6db7191b7ece5bd78ec36a"
+    },
+    "index.html": {
+      "bytes": 679,
+      "sha256": "c0eb57ed133ca4d444fdb280bb63d09b56601866c8e09144b7e18192af0617e4"
+    },
+    "src/apps/aem/model.js": {
+      "bytes": 4213,
+      "sha256": "55585e3c17664248af4469b5acce5978adadd1ca18c01f007282cd19f2814718"
+    },
+    "src/apps/hsv/model.js": {
+      "bytes": 5493,
+      "sha256": "41d8f1ce4903d3335e8067cb8a4029ec8830327b779f10dd406e8f2bea411a09"
+    },
+    "src/apps/rain/model.js": {
+      "bytes": 8209,
+      "sha256": "85c4e56445c95284f058c37a03e16383d15b4c0f8ad8dae8dc4df0d3c063556c"
+    },
+    "src/apps/udaq/model.js": {
+      "bytes": 740,
+      "sha256": "552b353bd90d20fd2ef3cd7defd451762b450303c7cb5becfcd9056dbb683cc5"
+    },
+    "src/apps/udaq/view.js": {
+      "bytes": 2279,
+      "sha256": "09b0529fb917f8c943a7b016b8d69ec27fa0e26f4bbdaa3dc282eed3600f341f"
+    },
+    "src/audio/audio-engine.js": {
+      "bytes": 7363,
+      "sha256": "ab06239dd877c1b467a4d3f4f2e4f593c1274bc5f2365578f409afbd8897bc6f"
+    },
+    "src/core/reference-catalog.js": {
+      "bytes": 5635,
+      "sha256": "04df8a0d0dac8e04fbe1fac9ca5cd2c0269343e31932e3a9f0b9f361cdb78d59"
+    },
+    "src/core/state.js": {
+      "bytes": 14908,
+      "sha256": "3050cdd4e9f0e7c2cd5a415cf54061630f04e5b10e5c316003fd7d4e7f4c3549"
+    },
+    "src/gfx/glcd-font.js": {
+      "bytes": 7990,
+      "sha256": "b580d2aa28a73d946ce168e6ece311a15279ae68248b2613f69c6f7e1df869d9"
+    },
+    "src/gfx/surface.js": {
+      "bytes": 2455,
+      "sha256": "c20b0ce956321e5e556e544e22e0b9f81b69dd7603b0b95265547d747a753e69"
+    },
+    "src/main.js": {
+      "bytes": 77434,
+      "sha256": "861889995905159931de8d81060f25374c028a9eaae00f9762e8a699c7c69b24"
+    },
+    "src/platform/emulator-bridge.js": {
+      "bytes": 1165,
+      "sha256": "431ec602d471ed7d06bf4b6887cd298a3dbaca72ad5f43c54b23b6766cb4656e"
+    },
+    "src/platform/r1-platform.js": {
+      "bytes": 7325,
+      "sha256": "c4e5b3c7f8691987832ddec2a89f3cc1eca73cd825547519cfd704863f71343e"
+    },
+    "src/services/input-focus.js": {
+      "bytes": 428,
+      "sha256": "e66e54ba1af3a2deb1a4fb4f7198783c52756b42cbc91f3160050ffbbd833dcd"
+    },
+    "src/services/interaction-router.js": {
+      "bytes": 877,
+      "sha256": "a339bcbec35d0bd8ae6155146c166287d2d3e81889a5279b44fd0864a7a2cfe6"
+    },
+    "src/services/navigation-guard.js": {
+      "bytes": 411,
+      "sha256": "8b89a9bfc90c6d6d358e9f76720a1a6041c57aa161030dfd4e3b041cc03db424"
+    },
+    "src/services/pattern-service.js": {
+      "bytes": 4266,
+      "sha256": "2c1d85550160864fb127aa3776ef09537f0eb9c7538b22f541edf60d7958cdcd"
+    },
+    "src/services/sensor-hub.js": {
+      "bytes": 7688,
+      "sha256": "9771ffee93725799d4df3fc46d67be3fc32418e5af249972d1aadacfc832d28c"
+    },
+    "src/services/storage/media-repository.js": {
+      "bytes": 2607,
+      "sha256": "8b7d28643124fdc9ff9a8bacc6aa38fbd8bfcc35fe222fded4949601910818cb"
+    },
+    "src/services/transport-manager.js": {
+      "bytes": 1420,
+      "sha256": "956fa34b72bb8fbe38d11f8472381d0014739fb91ed53d23886a0af33f74d834"
+    },
+    "src/styles.css": {
+      "bytes": 23812,
+      "sha256": "829fcbf42aff88bc6d866b11400506b696ac326c562e0ff1f4a11453cf26a32a"
+    },
+    "src/ui/native-shell.js": {
+      "bytes": 19624,
+      "sha256": "64cc275934d8bd0a4e69eaf63eb5e285342bfb6a259a2801fd141b3c4ab927cb"
+    },
+    "src/ui/render.js": {
+      "bytes": 41418,
+      "sha256": "6171b4a24a97f5006d37fb6be3ed7e32f0636ef0c2d6238faafbe28f19ac7a34"
+    }
+  }
+}

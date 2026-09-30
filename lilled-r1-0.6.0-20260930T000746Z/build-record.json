@@ -1,0 +1,12 @@
+{
+  "schema": "r1-creation-build-record/1",
+  "creation": "lilled-r1",
+  "title": "lilLED R1 Interaction Lab",
+  "version": "0.6.0",
+  "generatedAt": "2026-09-30T00:07:46.148Z",
+  "node": "v24.18.0",
+  "fileCount": 29,
+  "source": "creations/lilled-r1",
+  "output": "dist/lilled-r1",
+  "buildId": "lilled-r1-0.6.0-20260930T000746Z"
+}
