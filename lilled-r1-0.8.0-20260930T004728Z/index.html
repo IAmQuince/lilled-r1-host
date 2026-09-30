@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#070a10">
+  <meta name="color-scheme" content="dark">
+  <title>lilLED R1 Reference Lab</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <div id="app" class="app-shell" aria-live="polite"></div>
+  <canvas id="nativeScreen" width="240" height="292" aria-label="lilLED native screen" hidden></canvas>
+  <input id="r1MessageKeyboard" aria-label="Message text" maxlength="200" autocomplete="off" style="position:fixed;left:0;bottom:0;width:1px;height:1px;opacity:0.01;z-index:-1">
+  <script src="src/platform/emulator-bridge.js"></script>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
